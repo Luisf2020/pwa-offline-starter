@@ -1,0 +1,8 @@
+{
+  "name": "PWA Offline Starter",
+  "short_name": "PWA",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b1424",
+  "theme_color": "#0d9488"
+}
