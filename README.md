@@ -1,6 +1,6 @@
 # pwa-offline-starter
 
-![stack: JavaScript](https://img.shields.io/badge/stack--JavaScript-0d9488?style=flat-square) ![stack: Service Worker](https://img.shields.io/badge/stack--Service%20Worker-0d9488?style=flat-square) ![stack: Web App Manifest](https://img.shields.io/badge/stack--Web%20App%20Manifest-0d9488?style=flat-square)
+![stack: JavaScript](https://img.shields.io/badge/stack--JavaScript-0d9488?style=flat-square) ![stack: Service Worker](https://img.shields.io/badge/stack--Service%20Worker-0d9488?style=flat-square) ![stack: Web App Manifest](https://img.shields.io/badge/stack--Web%20App%20Manifest-0d9488?style=flat-square) [![Demo](https://img.shields.io/badge/demo-en%20vivo-22c55e?style=flat-square)](https://luisf2020.github.io/pwa-offline-starter/)
 ![IA: asistido](https://img.shields.io/badge/IA--asistido-6366f1?style=flat-square)
 
 PWA minima: service worker con precache (cache-first), manifest e indicador de conexion.
@@ -52,8 +52,8 @@ El nivel describe la complejidad tecnica del proyecto, no el grado de dominio de
 
 ## Despliegue
 
-Pendiente de construir y publicar.  
-El codigo fuente si esta disponible en este repositorio.
+Demo en vivo: <https://luisf2020.github.io/pwa-offline-starter/>  
+Publicado con GitHub Pages (rama `gh-pages`).
 
 ## Autor
 
